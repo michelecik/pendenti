@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "barcode": "10110101060012",
+            "sku": "10110101060012",
+            "modello": "10110101600 - PARK",
+            "variante": "001",
+            "taglia": "4",
+            "prezzo": "140",
+            "prezzo_saldo": "100"
+        },
+        {
+            "barcode": "10110101060012",
+            "sku": "10110101060012",
+            "modello": "10110101600 - MONELLA",
+            "variante": "001",
+            "taglia": "4",
+            "prezzo": "140",
+            "prezzo_saldo": "100"
+        },
+        {
+            "barcode": "10110101060012",
+            "sku": "10110101060012",
+            "modello": "10110101600 - MANUELA",
+            "variante": "001",
+            "taglia": "4",
+            "prezzo": "140",
+            "prezzo_saldo": "100"
+        }
+    ]
+}
